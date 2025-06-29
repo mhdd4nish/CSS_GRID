@@ -92,7 +92,7 @@ h3{
 .item .text{
     font-size: 14px;
 }
-@media (max-width: 600px) {
+@media (max-width: 1000px) {
     .container{
         margin:0px;
         grid-template-columns: 1fr;
